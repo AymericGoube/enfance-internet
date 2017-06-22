@@ -8,8 +8,13 @@ $orange: #FD6205;
   }
 }
 
-.col-md-3{
+.row{
+  display: flex!important;
+  flex-wrap: wrap;
+}
 
+.col-md-3{
+  height: 100%;
   text-align: center;
   padding-bottom: 5%;
   padding-right: 5px!important;
@@ -38,7 +43,7 @@ img{
   color: white;
   border: 1px solid $orange;
   border-radius: 5px;
-  padding: 15px;
+  padding: 10px;
   text-decoration: none!important;
   transition: 0.2s linear;
 }
