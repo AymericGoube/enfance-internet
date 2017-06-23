@@ -46,4 +46,6 @@
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
+      <a href=".my-nav" class="js-scrollTo" id="arrowBtn"><i class="fa fa-arrow-circle-up fa-3x" aria-hidden="true"></i></a>
+
   </header>

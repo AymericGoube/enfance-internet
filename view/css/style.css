@@ -61,4 +61,16 @@ footer {
       color: white;
       padding-left: 20px; }
 
+#arrowBtn {
+  color: #0ab259; }
+
+.fa-arrow-circle-up {
+  position: fixed;
+  z-index: 100;
+  left: 95%;
+  top: 85%;
+  height: 10px;
+  width: 10px;
+  visibility: hidden; }
+
 /*# sourceMappingURL=style.css.map */
